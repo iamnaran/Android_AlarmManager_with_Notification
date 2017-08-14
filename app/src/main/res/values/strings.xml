@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationWithAlarmManagerExample</string>
+    <string name="title_activity_notification_click">NotificationClickActivity</string>
+</resources>
